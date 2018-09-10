@@ -1,4 +1,4 @@
 # Simulation Files
 stuff/data
-!stuff/data/meep.xci
+!stuff/data/*.xci
 
